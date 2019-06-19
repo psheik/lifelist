@@ -1,0 +1,6 @@
+school
+work
+gym
+hobby
+entertainment
+
